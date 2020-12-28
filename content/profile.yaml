@@ -1,29 +1,32 @@
 - profile:
-  initials: JD
-  name: John Doe
-  email: john.doe@change.me
+  initials: TT
+  name: Terry Threatt
+  email: terry.threatt@gmail.com
   profession: Web Developer
   image: images/profile.jpg
-  location: New York, USA
+  location: Houston, Texas USA
   relocation: true
-  company: Atomic Studio
+  company: Peloton 
   for_hire: true
-  focus: Learning Gatsby
-  focus_url: https://gatsbyjs.org
+  focus: Learning JavaScript & ReactJS
+  focus_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
   about: |
-    Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
-
-    User generated content in real-time will have multiple touchpoints for offshoring. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+    Background in sports, entertainment & business (M.B.A.) transferring my experiences into my next developer role. Possess strong skills in leadership and project management that helped fast-paced teams create useful solutions and make lasting improvements. Dedicated to learning new technologies and joining a team that is developing innovative products.
   skills:
+    - ReactJS
     - JavaScript
     - HTML / CSS
+    - Redux
     - Ruby on Rails
+    - Python
   tools:
-    - React
+    - Git
+    - Webpack
     - VSCode
-    - Gatsby
+    - PostgreSQL
+    - MongoDB
   budget:
     currency: $
     min: 5
     max: 30
-    default: 10
+    default: 3

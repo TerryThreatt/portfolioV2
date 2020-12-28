@@ -1,18 +1,18 @@
-- name: Example 1
-  url: https://github.com
-  description: Override the digital divide with additional clickthroughs from DevOps. User generated content in real-time will have multiple touchpoints for offshoring.
-  status: in progress
+- name: Moby
+  url: https://github.com/moby
+  description: Javascript / Rails web application for making book reviews
+  status: live
   tags:
     - JavaScript
-    - Gatsby
-  icon: github
+    - Ruby on Rails
+  icon: website
 
-- name: Example 2
-  url: https://github.com
-  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
+- name: Investy
+  url: https://github.com/investy
+  description: Sinatra web application for tracking my investments
   status: live
   tags:
     - JavaScript
     - HTML
+    - Sinatra 
   icon: website
-  image: images/project.jpg
