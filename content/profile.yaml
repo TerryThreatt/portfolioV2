@@ -15,16 +15,17 @@
   skills:
     - ReactJS
     - JavaScript
-    - HTML / CSS
-    - Redux
-    - Ruby on Rails
     - Python
+    - Ruby on Rails
+    - Redux
+    - HTML / CSS
   tools:
+    - PostgreSQL
+    - MongoDB
     - Git
     - Webpack
     - VSCode
-    - PostgreSQL
-    - MongoDB
+    - Jest
   budget:
     currency: $
     min: 5
