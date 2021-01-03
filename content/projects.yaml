@@ -5,7 +5,7 @@
   tags:
     - ReactJS
     - Ruby on Rails
-  icon: website
+  icon: github
 
 - name: Moby
   url: https://github.com/moby
@@ -14,7 +14,7 @@
   tags:
     - JavaScript
     - Ruby on Rails
-  icon: website
+  icon: github
 
 - name: Investy
   url: https://github.com/investy
@@ -24,4 +24,4 @@
     - JavaScript
     - HTML
     - Sinatra
-  icon: website
+  icon: github
