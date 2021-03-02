@@ -8,7 +8,7 @@
   icon: github
 
 - name: Moby
-  url: https://github.com/moby
+  url: https://github.com/TerryThreatt/moby
   description: Javascript / Rails web application for making book reviews
   status: live
   tags:
@@ -17,7 +17,7 @@
   icon: github
 
 - name: Investy
-  url: https://github.com/investy
+  url: https://github.com/TerryThreatt/investy
   description: Sinatra web application for tracking my investments
   status: live
   tags:
