@@ -2,29 +2,29 @@
   initials: TT
   name: Terry Threatt
   email: f/meqpprzn
-  profession: Full Stack Web Developer
+  profession: Software Engineer
   image: images/profile.jpg
-  location: Houston, Texas USA
+  location: Dallas, Texas USA
   relocation: true
   company: Peloton
   for_hire: true
-  focus: Learning Typescript & GraphQL
+  focus: Learning AWS
   focus_url: https://dev.to/terrythreatt
   about: |
-    Background in sports, entertainment & business (M.B.A.) transferring my experiences into my next developer role. Possess strong skills in leadership and project management that helped fast-paced teams create useful solutions and make lasting improvements. Dedicated to learning new technologies and joining a team that is developing innovative products.
+    Software Engineer that focuses on frontend technologies like HTML, CSS, and React. I have a passion for Responsive Design, Web Accessibility, and Serverless technologies such as AWS. Ability to effectively provide excellent verbal and written communication while collaborating on teams. Working knowledge of databases, web servers, testing, and maintenance of software systems.
   skills:
-    - ReactJS
-    - JavaScript
     - Python
-    - Ruby on Rails
-    - Redux
-    - HTML / CSS
+    - NodeJS
+    - Ruby
+    - AWS
+    - ReactJS
+    - HTML & CSS
   tools:
-    - PostgreSQL
+    - SQL
     - MongoDB
+    - Linux
+    - GraphQL
     - Git
-    - Webpack
-    - VSCode
     - Jest
   budget:
     currency: $
