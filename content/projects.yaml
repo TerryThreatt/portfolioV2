@@ -8,7 +8,7 @@
   icon: github
 
 - name: Moby
-  url: https://ecstatic-pasteur-c04207.netlify.app/
+  url: https://jovial-wozniak-cc011e.netlify.app/
   description: Javascript / Rails web application for making book reviews
   status: live
   tags:
