@@ -1,5 +1,5 @@
 - name: StationSwap
-  url: https://github.com/TerryThreatt/StationSwap
+  url: https://ecstatic-pasteur-c04207.netlify.app/
   description: ReactJS / Rails web application for rental laptops for remote teams
   status: live
   tags:
@@ -8,7 +8,7 @@
   icon: github
 
 - name: Moby
-  url: https://github.com/TerryThreatt/moby
+  url: https://ecstatic-pasteur-c04207.netlify.app/
   description: Javascript / Rails web application for making book reviews
   status: live
   tags:
@@ -17,7 +17,7 @@
   icon: github
 
 - name: Investy
-  url: https://github.com/TerryThreatt/investy
+  url: https://investy-app.herokuapp.com/
   description: Sinatra web application for tracking my investments
   status: live
   tags:
