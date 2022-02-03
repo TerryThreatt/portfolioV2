@@ -1,6 +1,6 @@
 - name: StationSwap
   url: https://ecstatic-pasteur-c04207.netlify.app/
-  description: ReactJS / Rails web application for rental laptops for remote teams
+  description:  Leveraged exceptional technical expertise to develop React.JS web application for providing laptops on rent for remote teams. Contributed to managing state on frontend through the implementation of the Redux library. Provided laptop data by developing efficient Ruby on Rails API
   status: live
   tags:
     - ReactJS
@@ -9,7 +9,7 @@
 
 - name: Moby
   url: https://jovial-wozniak-cc011e.netlify.app/
-  description: Javascript / Rails web application for making book reviews
+  description: Developed application for providing book reviews by using JavaScript and Ruby on Rails. Employed professional programming expertise to build Ruby on Rails API for backend and Vanilla JavaScript on the frontend. Utilized multiple technologies and tools in project development, including PostgreSQL for database, as well as Active Record, Serializers, and the Materialize CSS framework.
   status: live
   tags:
     - JavaScript
@@ -18,7 +18,7 @@
 
 - name: Investy
   url: https://investy-app.herokuapp.com/
-  description: Sinatra web application for tracking my investments
+  description: Tracked investments by developing Sinatra web application by leveraging multiple programming languages and latest technologies. Created applications to separate the multiple aspects of the application by using MVC architecture in the full-stack Ruby Sinatra framework. Leveraged multiple technologies in development of web applications, including Sqlite3 for database, Active Record ORM, and the Bootstrap CSS framework.
   status: live
   tags:
     - JavaScript
