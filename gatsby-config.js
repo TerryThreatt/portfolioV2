@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    description: "Portfolio page Terry Threatt",
+    description: "Terry Threatt Portfolio",
     locale: "en",
     title: "Terry Threatt",
   },

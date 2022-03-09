@@ -1,6 +1,7 @@
 - name: StationSwap
   url: https://ecstatic-pasteur-c04207.netlify.app/
-  description:  Leveraged exceptional technical expertise to develop React.JS web application for providing laptops on rent for remote teams. Contributed to managing state on frontend through the implementation of the Redux library. Provided laptop data by developing efficient Ruby on Rails API
+  description: Developed a JavaScript web application for providing laptop rentals for remote teams. Managed state on the frontend client with the Redux library. Provided laptop server data by developing an efficient Ruby on Rails API
+
   status: live
   tags:
     - ReactJS
@@ -18,7 +19,8 @@
 
 - name: Investy
   url: https://investy-app.herokuapp.com/
-  description: Tracked investments by developing Sinatra web application by leveraging multiple programming languages and latest technologies. Created applications to separate the multiple aspects of the application by using MVC architecture in the full-stack Ruby Sinatra framework. Leveraged multiple technologies in development of web applications, including Sqlite3 for database, Active Record ORM, and the Bootstrap CSS framework.
+  description: Tracked investments by developing Sinatra web application by implementing object-oriented design. Created an application to separate concerns by using the MVC architecture in HTML, CSS, and the Ruby language. Modeling data with a SQL database and Active Record ORM
+
   status: live
   tags:
     - JavaScript
