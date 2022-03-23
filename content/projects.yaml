@@ -1,5 +1,5 @@
 - name: StationSwap
-  url: https://ecstatic-pasteur-c04207.netlify.app/
+  url: https://stationswap.netlify.app/
   description: Developed a JavaScript web application for providing laptop rentals for remote teams. Managed state on the frontend client with the Redux library. Provided laptop server data by developing an efficient Ruby on Rails API
 
   status: live
