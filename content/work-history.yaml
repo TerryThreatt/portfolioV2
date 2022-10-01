@@ -1,3 +1,8 @@
+- company: Colliers International
+  position: Software Engineer
+  period: April 2022 - Present
+  url: https://docs.google.com/document/d/10qdVGdTgkWysw1lwTm88hVy4YAwEKvY1PLW8RyyPRuo/edit?usp=sharing
+
 - company: Deeble
   position: Software Engineer
   period: September 2021 - November 2021
@@ -8,10 +13,10 @@
   period: Jan 2020 - Present
   url: https://docs.google.com/document/d/10qdVGdTgkWysw1lwTm88hVy4YAwEKvY1PLW8RyyPRuo/edit?usp=sharing
 
-- company: Peloton
-  position: Field Specialist
-  period: November 2019 - Present
-  url: https://docs.google.com/document/d/10qdVGdTgkWysw1lwTm88hVy4YAwEKvY1PLW8RyyPRuo/edit?usp=sharing
+# - company: Peloton
+#   position: Field Specialist
+#   period: November 2019 - Present
+#   url: https://docs.google.com/document/d/10qdVGdTgkWysw1lwTm88hVy4YAwEKvY1PLW8RyyPRuo/edit?usp=sharing
 
 # - company: University of Houston Athletics
 #   position: Assitant Director of Event Management & Game Operations
