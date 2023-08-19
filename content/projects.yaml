@@ -21,7 +21,7 @@
   url: https://investy-app.herokuapp.com/
   description: Tracked investments by developing Sinatra web application by implementing object-oriented design. Created an application to separate concerns by using the MVC architecture in HTML, CSS, and the Ruby language. Modeling data with a SQL database and Active Record ORM
 
-  status: live
+  status: dead
   tags:
     - JavaScript
     - HTML
