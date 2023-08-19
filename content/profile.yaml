@@ -5,7 +5,7 @@
   profession: Software Engineer
   image: images/headshot.jpeg
   location: Plano, Texas USA
-  relocation: no
+  relocation: false
   company: Colliers International
   for_hire: false
   focus: AWS Services
