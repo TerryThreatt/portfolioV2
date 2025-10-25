@@ -6,8 +6,8 @@
   image: images/headshot.jpeg
   location: Plano, Texas USA
   relocation: false
-  # company:
-  for_hire: true
+  company: Colliers International
+  for_hire: false
   focus: System Design
   focus_url: https://dev.to/terrythreatt
   about: |
