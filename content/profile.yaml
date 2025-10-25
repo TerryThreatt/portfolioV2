@@ -6,7 +6,7 @@
   image: images/headshot.jpeg
   location: Plano, Texas USA
   relocation: false
-  company:
+  # company:
   for_hire: true
   focus: System Design
   focus_url: https://dev.to/terrythreatt
