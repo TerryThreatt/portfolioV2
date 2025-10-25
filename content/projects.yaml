@@ -1,29 +1,29 @@
-- name: StationSwap
-  url: https://stationswap.netlify.app/
-  description: Developed a JavaScript web application for providing laptop rentals for remote teams. Managed state on the frontend client with the Redux library. Provided laptop server data by developing an efficient Ruby on Rails API
+# - name: StationSwap
+#   url: https://stationswap.netlify.app/
+#   description: Developed a JavaScript web application for providing laptop rentals for remote teams. Managed state on the frontend client with the Redux library. Provided laptop server data by developing an efficient Ruby on Rails API
 
-  status: live
-  tags:
-    - ReactJS
-    - Ruby on Rails
-  icon: github
+#   status: live
+#   tags:
+#     - ReactJS
+#     - Ruby on Rails
+#   icon: github
 
-- name: Moby
-  url: https://jovial-wozniak-cc011e.netlify.app/
-  description: Developed application for providing book reviews by using JavaScript and Ruby on Rails. Employed professional programming expertise to build Ruby on Rails API for backend and Vanilla JavaScript on the frontend. Utilized multiple technologies and tools in project development, including PostgreSQL for database, as well as Active Record, Serializers, and the Materialize CSS framework.
-  status: live
-  tags:
-    - JavaScript
-    - Ruby on Rails
-  icon: github
+# - name: Moby
+#   url: https://jovial-wozniak-cc011e.netlify.app/
+#   description: Developed application for providing book reviews by using JavaScript and Ruby on Rails. Employed professional programming expertise to build Ruby on Rails API for backend and Vanilla JavaScript on the frontend. Utilized multiple technologies and tools in project development, including PostgreSQL for database, as well as Active Record, Serializers, and the Materialize CSS framework.
+#   status: live
+#   tags:
+#     - JavaScript
+#     - Ruby on Rails
+#   icon: github
 
-- name: Investy
-  url: https://investy-app.herokuapp.com/
-  description: Tracked investments by developing Sinatra web application by implementing object-oriented design. Created an application to separate concerns by using the MVC architecture in HTML, CSS, and the Ruby language. Modeling data with a SQL database and Active Record ORM
+# - name: Investy
+#   url: https://investy-app.herokuapp.com/
+#   description: Tracked investments by developing Sinatra web application by implementing object-oriented design. Created an application to separate concerns by using the MVC architecture in HTML, CSS, and the Ruby language. Modeling data with a SQL database and Active Record ORM
 
-  status: dead
-  tags:
-    - JavaScript
-    - HTML
-    - Sinatra
-  icon: github
+#   status: dead
+#   tags:
+#     - JavaScript
+#     - HTML
+#     - Sinatra
+#   icon: github
