@@ -6,19 +6,19 @@
   image: images/headshot.jpeg
   location: Plano, Texas USA
   relocation: false
-  company: Colliers International
+  company:
   for_hire: true
   focus: System Design
   focus_url: https://dev.to/terrythreatt
   about: |
     Full Stack Engineer that focuses on technologies like React, Typescript, and Node. I have a passion for Responsive Design and Serverless technologies such as AWS. Ability to effectively provide excellent verbal and written communication while collaborating on teams. Working knowledge of databases, web servers, testing, and maintenance of software systems.
   skills:
-    - HTML
-    - CSS
+    - Typescript
     - ReactJS
     - NodeJS
-    - Typescript
-    - RabbitMQ
+    - Databases
+    - Cloud
+    - AI
   tools:
     - SQL & NoSQL
     - Webpack
